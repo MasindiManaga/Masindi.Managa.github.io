@@ -41,11 +41,10 @@ I leverage data science and statistical modelling to solve complex quantitative 
 ## Publications & Creative Work
 * **Published Poetry Collections:** Author of *Ardour* and *Avow*, exploring human-centered themes, narrative structure, and creative expression.
 * **Public Speaking & Advocacy:** Delivered a TEDx talk (TEDxUCT) on social advocacy; active ambassador with the Alkebulan Authors Platform promoting literacy and narrative synthesis.
-* **Empirical Research:** Quantitative research in macroeconomic price dynamics, asymmetric pass-through, and econometric forecasting.
 
 ---
 
 ## Education & Honors
-* **BSc (Honours) in Data Science** | Eduvos (2026)
-* **BSc in Data Science** | Eduvos (2023 – 2025)
+* **BSc (Honours) in IT (Data Science)** | Eduvos (2026)
+* **BSc in IT (Data Science)** | Eduvos (2023 – 2025)
 * **Honors & Affiliations:** Golden Key International Honour Society, SI Tutor, Academic Top Achiever Awards
