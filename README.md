@@ -6,29 +6,30 @@
 ---
 
 ## About
-I leverage data science and statistical modeling to solve complex quantitative problems. With a background in empirical research and analytical workflows, I bridge rigorous quantitative methods with clear technical communication.
+I leverage data science and statistical modelling to solve complex quantitative problems. With a background in empirical research and analytical workflows, I bridge rigorous quantitative methods with clear technical communication.
 
 ---
 
-## Technical Stack
-* **Languages:** Python, R, SQL, Bash
-* **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Statsmodels, Matplotlib, Seaborn
-* **Infrastructure & Tools:** Microsoft Fabric, Linux/Unix, Git, Jupyter
+## Technical Competencies
+* **Languages & Core:** Python, R, SQL, Bash
+* **Quantitative & Data Science:** Time-Series Forecasting, Econometric Modelling, Machine Learning Pipelines, Statistical Analysis, Geospatial Analytics
+* **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, Statsmodels, Matplotlib, Seaborn, Quarto, R Shiny
+* **Infrastructure & Platforms:** Microsoft Fabric, Linux/Unix Environments, Database Systems, Git, Jupyter
 
 ---
 
 ## Featured Projects
 
 ### [ERPT ML Research](https://github.com/MasindiManaga/ERPT_ML_Research)
-* End-to-end econometric modeling and machine learning pipelines analyzing exchange rate pass-through and macroeconomic price dynamics.
-* **Tech:** Python, Econometrics, Time-Series Modeling
+* End-to-end econometric modelling and machine learning pipelines analyzing exchange rate pass-through and macroeconomic price transmission dynamics.
+* **Tech:** Python, Econometric Modelling, Time-Series Modelling
 
 ### [Healthcare Accessibility Analysis (Omdena)](https://github.com/MasindiManaga/SudanChapter_AnalyzeHealthcareAccessibility)
-* Geospatial data analysis and predictive modeling evaluating regional healthcare access constraints.
+* Geospatial data analysis and predictive modelling evaluating regional healthcare access constraints.
 * **Tech:** Python, Geospatial Analysis, EDA
 
 ### [British Airways Customer Analytics](https://github.com/MasindiManaga/British_Airways)
-* Customer review sentiment analysis and predictive modeling for airline booking behavior.
+* Customer review sentiment analysis and predictive modelling for airline booking behavior.
 * **Tech:** Python, NLP, Scikit-Learn
 
 ### [Eduvos Graduate Dashboard](https://github.com/MasindiManaga/Eduvos-Graduate-Dashboard)
@@ -37,6 +38,14 @@ I leverage data science and statistical modeling to solve complex quantitative p
 
 ---
 
-## Publications & Writing
-* **Published Author (2x):** Author of two published poetry collections, 'Ardour' and 'Avow.'
-* **Empirical Research:** Quantitative research in price transmission and econometric forecasting.
+## Publications & Creative Work
+* **Published Poetry Collections:** Author of *Ardour* and *Avow*, exploring human-centered themes, narrative structure, and creative expression.
+* **Public Speaking & Advocacy:** Delivered a TEDx talk (TEDxUCT) on social advocacy; active ambassador with the Alkebulan Authors Platform promoting literacy and narrative synthesis.
+* **Empirical Research:** Quantitative research in macroeconomic price dynamics, asymmetric pass-through, and econometric forecasting.
+
+---
+
+## Education & Honors
+* **BSc (Honours) in Data Science** | Eduvos (2026)
+* **BSc in Data Science** | Eduvos (2023 – 2025)
+* **Honors & Affiliations:** Golden Key International Honour Society, SI Tutor, Academic Top Achiever Awards
