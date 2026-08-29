@@ -14,7 +14,7 @@ I leverage data science and statistical modelling to solve complex quantitative 
 * **Languages & Core:** Python, R, SQL, Bash
 * **Quantitative & Data Science:** Time-Series Forecasting, Econometric Modelling, Machine Learning Pipelines, Statistical Analysis, Geospatial Analytics
 * **Libraries & Frameworks:** Pandas, NumPy, Scikit-Learn, Statsmodels, Matplotlib, Seaborn, Quarto, R Shiny
-* **Infrastructure & Platforms:** Microsoft Fabric, Linux/Unix Environments, Database Systems, Git, Jupyter
+* **Infrastructure & Platforms:** Linux/Unix Environments, Database Systems, Git, Jupyter, VS Code
 
 ---
 
