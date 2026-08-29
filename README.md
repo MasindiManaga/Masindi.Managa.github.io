@@ -5,19 +5,19 @@
 
 ---
 
-## 📌 About
+## About
 I leverage statistical modeling, econometric forecasting, and scalable data workflows to solve complex quantitative problems. With a background in Data Science and empirical research, I bridge rigorous analysis with clear technical communication.
 
 ---
 
-## 🛠️ Technical Stack
+## Technical Stack
 * **Languages:** Python, R, SQL, Bash
 * **Data Science & ML:** Pandas, NumPy, Scikit-Learn, Statsmodels, Matplotlib, Seaborn
 * **Infrastructure & Tools:** Microsoft Fabric, Linux/Unix, Git, Jupyter
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [ERPT ML Research](https://github.com/MasindiManaga/ERPT_ML_Research)
 * End-to-end econometric modeling and machine learning pipelines analyzing exchange rate pass-through and macroeconomic price dynamics.
@@ -37,6 +37,6 @@ I leverage statistical modeling, econometric forecasting, and scalable data work
 
 ---
 
-## ✍️ Publications & Writing
+## Publications & Writing
 * **Published Author (2x):** Creative and analytical writing bridging narrative depth with technical problem-solving.
 * **Empirical Research:** Quantitative research in price transmission and econometric forecasting.
