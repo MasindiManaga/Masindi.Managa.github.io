@@ -6,7 +6,7 @@
 ---
 
 ## About
-I leverage statistical modeling, econometric forecasting, and scalable data workflows to solve complex quantitative problems. With a background in Data Science and empirical research, I bridge rigorous analysis with clear technical communication.
+I leverage data science and statistical modeling to solve complex quantitative problems. With a background in empirical research and analytical workflows, I bridge rigorous quantitative methods with clear technical communication.
 
 ---
 
@@ -32,11 +32,11 @@ I leverage statistical modeling, econometric forecasting, and scalable data work
 * **Tech:** Python, NLP, Scikit-Learn
 
 ### [Eduvos Graduate Dashboard](https://github.com/MasindiManaga/Eduvos-Graduate-Dashboard)
-* Interactive dashboard visualizing graduate employment patterns and academic trends.
-* **Tech:** HTML, Data Visualization, Analytics
+* Interactive dashboard visualizing graduate employment trends, industry placement, and technology adoption patterns to support curriculum development and data-driven decision-making.
+* **Tech:** R, R Shiny, Quarto, Data Visualization, Survey Analytics
 
 ---
 
 ## Publications & Writing
-* **Published Author (2x):** Creative and analytical writing bridging narrative depth with technical problem-solving.
+* **Published Author (2x):** Author of two published poetry collections, 'Ardour' and 'Avow.'
 * **Empirical Research:** Quantitative research in price transmission and econometric forecasting.
